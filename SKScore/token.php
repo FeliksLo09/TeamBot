@@ -1,3 +1,3 @@
 <?php
-$TOKEN="975415960:AAHNZeXG7dw03wjDMh4ihPbXWMSlRZcSvQo";
+$TOKEN="pasteryourtokenhere";
 ?>
